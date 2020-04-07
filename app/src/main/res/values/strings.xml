@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project\nKaraoke</string>
+    <string name="activity_top_name">#Project_Karaoke</string>
+    <string name="tab_text_1">Files</string>
+    <string name="tab_text_2">Lyrics</string>
+    <string name="tab_text_3">Editor</string>
+    <string name="hello_subtitle_editor_fragment">Welcome to Lyrics Editor fragment</string>
+    <string name="hello_subtitle_display_fragment">Welcome to Lyrics Display fragment</string>
+    <string name="seekbar_starttime">0:00</string>
+    <string name="seekbar_endtime">2:00</string>
+    <string name="sample_song_title">See You Again</string>
+</resources>
